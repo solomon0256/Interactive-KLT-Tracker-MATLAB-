@@ -6,11 +6,7 @@
 
 ---
 
-## PCB Preview
 
-Here is the PCB layout:
-
-![PCB Layout](result/pcb%20(1).png)
 
 ## Features
 
