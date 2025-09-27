@@ -4,6 +4,12 @@
 
 > This is a teaching/demo project, not a production‑grade tracker.
 
+## PCB Preview
+
+Here is the PCB layout:
+
+![PCB Layout](result/pcb%20(1).png)
+
 ---
 
 ## Features
